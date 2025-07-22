@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm DSManoj</h1>
 <h3 align="center">Beginner to Builder: My Machine Learning Pathway 🔍</h3>
 
-<img align="rightalt="Codingwidth="400src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZzVtY2J0aTU0cnhjbDIwcWNwdTNmZTVyYXZmNDJoOTY0YWI0dGk3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/source.gif></img>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-dharmalingam&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-dharmalingam" /> </p>
 
