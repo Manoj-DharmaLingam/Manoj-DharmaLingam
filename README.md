@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/1APaqOO5QOcwM/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/1APaqOO5QOcwM/giphy.gif" width="150"/>
   <br/>
   Hi, I'm D.S. Manoj
 </h1>
@@ -11,8 +11,7 @@
 <details align="center">
   <summary>
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="100"/>
-    <br/>
-    <b>Click the Pokéball to reveal my journey!</b>
+    <br/><strong>Click the Pokéball to Reveal My Journey</strong>
   </summary>
 
 <br/>
@@ -56,6 +55,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+... *(Include your full stack here)*
 
 ---
 
@@ -82,6 +82,7 @@
 ---
 
 ## 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
