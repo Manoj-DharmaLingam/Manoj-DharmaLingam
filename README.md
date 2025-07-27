@@ -2,7 +2,6 @@
 
 <p align="center">
 🎓 <strong>Second-Year Student at AIML – Artificial Intelligent Machine Learning</strong><br/>
-📍 India • ☁️ Cloud | 🤖 ML | 🌿 Smart Agriculture
 </p>
 
 <p align="center">
@@ -13,7 +12,7 @@
 - 🌾 **Wheat Plant Disease Detection using CNN**  
    Using image classification with plans to integrate LLMs for smart agricultural advice.
 - 🫀 **Heart Attack Prediction using Scikit-learn (Random Forest Classifier)**  
-   🥈 Secured Second Prize in a college-level ML competition.
+  
 
 ## 🌱 What I’m Learning
 - 🧠 Deep Learning & CNNs
@@ -21,10 +20,6 @@
 - ☕ Java – Object-Oriented Programming  
 - 🧪 Streamlit for ML Web Apps  
 
-## 🤝 I’m Looking for Help With
-- ☁️ Cloud Deployment of ML Models  
-- 🖼️ Image Classification Optimization  
-- 🧠 Integrating LLMs with Custom Datasets  
 
 ## 💬 Ask Me About
 - 💻 Machine Learning & AI Projects  
@@ -79,7 +74,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=Manoj-DharmaLingam&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=8"/>
 </p>
 
@@ -91,6 +86,6 @@
 
 ## 🐍 Contributions Snake Animation
 
-<p align="center">
-  <img src="https://github.com/Manoj-DharmaLingam/Manoj-DharmaLingam/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
