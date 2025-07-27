@@ -8,7 +8,7 @@
 📧 <a href="mailto:dsmanoj1543@gmail.com">Email Me</a> for Collaboration, Projects, or Just to Say Hi 😊
 </p>
 
-<!-- ✨ Cool Coding GIF -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
 </p>
@@ -32,8 +32,9 @@
 - 🤝 Student Collaboration
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DsManoj)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ds-manoj-a67418327/)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsmanoj1543@gmail.com)
+
 
 ## ⚡ Fun Fact  
 <img src="https://media.giphy.com/media/xT1R9Wj1i7GsG0pLQI/giphy.gif" width="40"> _"I Love Tech and Tech Loves Me – We're in a lifelong relationship!"_ 💙
