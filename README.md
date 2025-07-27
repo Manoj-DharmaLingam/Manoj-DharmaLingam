@@ -80,15 +80,17 @@
 
 ## 🏆 GitHub Trophies
 
+
+
 <div align="center">
 
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Manoj-DharmaLingam&theme=onedark&no-frame=true&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Organizations"
-    alt="Luxurious GitHub Trophies"
-    style="max-width: 100%; border-radius: 20px; box-shadow: 0 0 30px gold;"
+    src="https://github-profile-trophy.vercel.app/?username=Manoj-DharmaLingam&theme=monokai&no-frame=false&margin-w=10&margin-h=15&title=Stars,Followers,Commits,Repositories,Issues,PullRequest"
+    alt="GitHub Trophies"
   />
 
 </div>
+
 
 
 
