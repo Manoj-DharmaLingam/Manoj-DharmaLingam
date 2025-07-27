@@ -80,11 +80,17 @@
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manoj-DharmaLingam&theme=gruvbox&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manoj-DharmaLingam
+  &theme=onedark
+  &no-frame=true
+  &row=2
+  &column=4
+  &title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Organizations"
+  alt="GitHub Trophies"
+  />
 </p>
+
 
 
 ## ✍️ Dev Quote of the Day
