@@ -1,3 +1,55 @@
+# 💫 Hi 👋, I'm D.S. Manoj
+
+🎓 **Second-Year Student at AIML – Artificial Intelligent Machine Learning**  
+
+
+📧 **Email Me** 👉 ✉️ [dsmanoj1543@gmail.com](mailto:dsmanoj1543@gmail.com) for Collaboration, Projects, or a Chat 😊😊
+
+---
+
+### 🚀 What I’m Currently Working On
+- 🔬 **Wheat Plant Disease Detection using CNN** 🌿  
+   Using **image classification** techniques with plans to integrate **LLMs for smart agricultural advice**.
+
+- 🧠 **Heart Attack Prediction using Scikit-learn (Random Forest Classifier)**  
+
+---
+
+### 🌱 What I’m Learning
+- 🧠 Deep Learning & Convolutional Neural Networks (CNNs)  
+- 🖥️ **HTML, CSS, JavaScript** – Building interactive and responsive websites  
+- ☕ **Java** – Exploring Object-Oriented Programming 
+- 🧪 Streamlit Web App Development
+
+---
+
+---
+
+### 🤔 I’m Looking for Help With
+- Deploying ML models to the **cloud**  
+- Optimizing **image classification pipelines**  
+- Integrating **LLMs with domain-specific datasets**
+
+---
+
+### 💬 Ask Me About
+- 💻 Machine Learning Projects  
+- 🛠️ Python, Scikit-learn, CNNs  
+- 🤝 Collaboration & Learning Together!
+
+---
+
+### 📫 How to Reach Me
+- 📩 **Email:** [dsmanoj1543@gmail.com](mailto:dsmanoj1543@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+> _"I Love Tech and Tech Loves Me 💙. We’re in a lifelong relationship!"_
+
+---
+
+![GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DsManoj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dsmanoj1543@gmail.com) 
