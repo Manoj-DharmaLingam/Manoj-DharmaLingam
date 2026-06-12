@@ -138,22 +138,7 @@ Open to discussions on Machine Learning, Deep Learning, PERN Stack, and AI appli
 
 # GitHub Stats
 
-</div> 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=222270318" target="_blank" style="display: block" align="center">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=222270318&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Manoj-DharmaLingam" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=222270318&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-<!-- Snake Game -->
-<div align="center">
+div align="center">
 
 <a href="https://github.com/Manoj-DharmaLingam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manoj-DharmaLingam&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -164,6 +149,24 @@ Open to discussions on Machine Learning, Deep Learning, PERN Stack, and AI appli
 
 <img src="https://streak-stats.demolab.com?user=Manoj-DharmaLingam&theme=tokyonight&hide_border=true" />
 
+</div>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+<!-- Snake Game -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Manoj-DharmaLingam/Manoj-DharmaLingam/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Manoj-DharmaLingam/Manoj-DharmaLingam/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Manoj-DharmaLingam/Manoj-DharmaLingam/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <!--Music Player-->
