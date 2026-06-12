@@ -142,10 +142,11 @@ div align="center">
 
 <a href="https://github.com/Manoj-DharmaLingam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manoj-DharmaLingam&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-DharmaLingam&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=Manoj-DharmaLingam&theme=tokyonight&hide_border=true" />
 
