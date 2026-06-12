@@ -141,10 +141,10 @@ Open to discussions on Machine Learning, Deep Learning, PERN Stack, and AI appli
 </div> 
 
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id= 222270318" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=222270318" target="_blank" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=222270318&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Manoj-DharmaLingam" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=222270318&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=222270318&image_size=auto&color_scheme=dark">
+    <img alt="Dashboard stats of @Manoj-DharmaLingam" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=222270318&image_size=auto&color_scheme=light">
   </picture>
 </a>
 
