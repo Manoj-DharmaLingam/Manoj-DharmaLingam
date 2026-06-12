@@ -154,14 +154,16 @@ Open to discussions on Machine Learning, Deep Learning, PERN Stack, and AI appli
 
 <!-- Snake Game -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Manoj-DharmaLingam/Manoj-DharmaLingam/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Manoj-DharmaLingam/Manoj-DharmaLingam/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Manoj-DharmaLingam/Manoj-DharmaLingam/output/github-contribution-grid-snake.svg">
-</picture>
+
+<a href="https://github.com/Manoj-DharmaLingam">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manoj-DharmaLingam&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-DharmaLingam&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Manoj-DharmaLingam&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <!--Music Player-->
